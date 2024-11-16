@@ -13,7 +13,6 @@ There are mainly 2 components of this project API.py which is the bridge between
 ``` python3 API.py ```
 
 
-=======
 ## To Start the Front-end follow the given steps.
 1. Clone the Repo using the below command
    ```git clone https://github.com/JayJoshi4520/DATA-245-ML-Project.git```
