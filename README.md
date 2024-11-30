@@ -8,7 +8,11 @@ There are mainly 2 components of this project API.py which is the bridge between
 ## To Start the APIs follow the below steps
 1. Clone The repo using ```git clone https://github.com/JayJoshi4520/DATA-245-ML-Project.git```
 2. ```cd DATA-245-ML-Project```
-3. ``` python API.py ```
+3. If you do not have virtualenv installed, install using: ```pip install virtualenv```
+4. ```python -m venv data245-project```
+5. ```source data245-project/bin/activate```
+6. ```pip install -r requirements.txt```
+7. ``` python API.py ```
 ### ***Note***: if the above command doesn't work try this below command.
 ``` python3 API.py ```
 
